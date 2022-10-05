@@ -1,4 +1,4 @@
-- 👋 Hey, I’m @Kaeggame but everyone is calling me Flamby! 
+- 👋 Hey, I’m @Kaeggame but everyone call me Flamby! 
 - 👀 I like playing videos games, taking pictures, coding and many more :D
 - 🌱 I'm currently trying to learn Kotlin! but I know how to code in HTML (Yes I know that isn't an coding language but shhhhhh), CSS3, JavaScript, Python, PHP, MySQL, C# 
 - 📫 You can reach me at : Contact@Flambyscuit.fr / Flambyscuit#1208 on discord
