@@ -27,4 +27,4 @@ Développeur full-stack de 21 ans à **Paris, France**.
 
 💬 discord • Flambyscuit#1208
 
-[![profil-github-spotify](https://spotify-github-profile.vercel.app/api/view?uid=kaeggame&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![profil-github-spotify](https://spotify-github-profile.vercel.app/api/view?uid=kaeggame&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)]
