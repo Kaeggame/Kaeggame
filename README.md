@@ -16,7 +16,7 @@ Développeur full-stack de 21 ans à **Paris, France**.
 - React (React.js)
 
 ### En train d'apprendre / Renforcer
-- React.js
+- Nuxt.js 3
 ---
 
 ### Contact
