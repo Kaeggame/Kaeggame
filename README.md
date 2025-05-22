@@ -1,29 +1,49 @@
-## 👋 **Salut, je m'appelle Julien, mais tout le monde m'appelle Flamby !**
+## 👋 **Salut, je m'appelle Julien !**
 
-Développeur full-stack de 21 ans à **Paris, France**.
+Je suis développeur **full-stack** basé à **Paris, France**.
 
-🍮 [Flambyscuit.fr](https://www.flambyscuit.fr)
+Passionné par la création d'interfaces fluides, performantes et accessibles, j'aime autant bidouiller le **front** que structurer un **back solide**.
+
+N'hésitez pas à faire un tour sur mon portfolio :
+[**Flambyscuit.fr**](https://www.flambyscuit.fr)
 
 ---
 
-### Expérience
+### 🧰 Stack principale
 
-- HTML, CSS, JavaScript (TailwindCSS, Bootstrap 5, SCSS, jQuery, React.JS, Vue.JS, Nuxt 3)
-- PHP (7.4, 8.2, Smarty)
-- MySQL, SQLite, SQL Server, MariaDB
-- Python (Zenpy)
-- C#, Java (.NET)
+Voici les langages et technologies que j'aime  :
 
-### En train d'apprendre / Renforcer
-- Nuxt.js 3
+**🖥️ Front-end**
+
+* HTML, CSS (SCSS, TailwindCSS, Bootstrap)
+* JavaScript, TypeScript
+* Vue.js (Nuxt.js), React.js / React TS, Next.js
+
+**🛠️ Back-end**
+
+* Node.js (Express.js, Nest.js)
+* PHP (7.4 / 8.2), Python, Rust (Aussi en embarqué avec de l'esp32 !)
+* Bases de données : MySQL, MariaDB, SQLite, SQL Server
 ---
 
-### Contact
+### 💼 Expérience
 
-✉️ mail • [Contact@flambyscuit.fr](mailto:contact@flambyscuit.fr)
+* HTML, CSS, JavaScript (TailwindCSS, Bootstrap 5, SCSS, jQuery, React.js, Next.js, Vue.js, Nuxt 3)
+* PHP (Smarty, 7.4 / 8.2)
+* SQL (MySQL, MariaDB, SQLite, SQL Server)
+* Python (Zenpy, automations)
+* C#, Java (.NET)
 
-🔗 linkedin • [Julien Chazal](https://www.linkedin.com/in/julien-chazal/)
+---
 
-💬 discord • Flambyscuit#1208
+### 📚 En cours d’apprentissage / Perfectionnement
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kaeggame&cover_image=false&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=22272e)](https://github.com/kittinan/spotify-github-profile)
+* Nuxt.js 3 & Next.js (Portfolio pour Nuxt et mon entreprise actuel pour Next)
+* Rust (Projet avec de l'esp32 en cours)
+
+---
+
+### 📬 Contact
+
+✉️ Email • [contact@flambyscuit.fr](mailto:contact@flambyscuit.fr)
+🔗 LinkedIn • [Julien Chazal](https://www.linkedin.com/in/julien-chazal/)
