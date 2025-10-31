@@ -4,20 +4,14 @@ Je suis développeur **full-stack** basé à **Paris, France**.
 
 Passionné par la création d'interfaces fluides, performantes et accessibles, j'aime autant bidouiller le **front** que structurer un **back solide**.
 
-N'hésitez pas à faire un tour sur mon portfolio :
-[**Flambyscuit.fr**](https://www.flambyscuit.fr)
-
 ---
 
 ### 🧰 Stack principale
-
-Voici les langages et technologies que j'aime  :
-
 **🖥️ Front-end**
 
-* HTML, CSS (SCSS, TailwindCSS, Bootstrap)
-* JavaScript, TypeScript
-* Vue.js (Nuxt.js), React.js / React TS, Next.js
+* HTML, CSS (SCSS, TailwindCSS, Bootstrap 5)
+* JavaScript, TypeScript, PHP 7.4 / 8.2
+* Vue.js, React, Next.js
 
 **🛠️ Back-end**
 
@@ -32,18 +26,19 @@ Voici les langages et technologies que j'aime  :
 * PHP (Smarty, 7.4 / 8.2)
 * SQL (MySQL, MariaDB, SQLite, SQL Server)
 * Python (Zenpy, automations)
-* C#, Java (.NET)
+* C# (.NET), Java
 
 ---
 
 ### 📚 En cours d’apprentissage / Perfectionnement
 
-* Nuxt.js 3 & Next.js (Portfolio pour Nuxt et mon entreprise actuel pour Next)
-* Rust (Projet avec de l'esp32 en cours)
-
+* React (Perfectionnement)
+* Nest.js (Perfectionnement)
+  
 ---
 
 ### 📬 Contact
 
-✉️ Email • [contact@flambyscuit.fr](mailto:contact@flambyscuit.fr)
+✉️ Email • [julien.chazal1@gmail.com](mailto:julien.chazal1@gmail.com)
 🔗 LinkedIn • [Julien Chazal](https://www.linkedin.com/in/julien-chazal/)
+🌍 Portfolio • [julien-chazal.fr](https://julien-chazal.fr)
